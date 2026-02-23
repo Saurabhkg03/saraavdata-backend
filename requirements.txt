@@ -1,0 +1,7 @@
+fastapi
+uvicorn
+sse-starlette
+google-api-python-client
+groq
+python-dotenv
+python-multipart
